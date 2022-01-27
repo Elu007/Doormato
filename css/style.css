@@ -7,6 +7,7 @@
 
 html{
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 /* CSS variables */
@@ -147,7 +148,7 @@ html{
     align-items: center;
 }
 .h-primary.center1{
-    color: black;
+    color: blue;
     text-align: center;
 }
 #clients img{
@@ -170,7 +171,7 @@ p{
     font-family: 'Ubuntu', sans-serif;
 }
 .h-primary.center{
-    color: rgb(0, 0, 0);
+    color: blue;
     font-size: 3.8rem;
     padding: 12px;
 }
